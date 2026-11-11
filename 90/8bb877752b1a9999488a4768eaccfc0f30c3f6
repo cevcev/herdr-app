@@ -1,0 +1,49 @@
+src/telemetry.rs
+  s_d52b7489029005::t_82d69eb2b077d7 604
+  s_d52b7489029005::t_26f0a63e60d6d3 12-14,78,80,83,85,653-655
+README.md
+  s_d52b7489029005::t_26f0a63e60d6d3 92
+  s_d52b7489029005::t_59ab6b0f8eb51b 112
+docs/security.md
+  s_d52b7489029005::t_26f0a63e60d6d3 18,47-49,51
+  s_d52b7489029005::t_ab5b60345be48c 50
+defaults/AGENTS.md
+  s_d52b7489029005::t_82d69eb2b077d7 753
+  s_d52b7489029005::t_59ab6b0f8eb51b 157-158
+  s_d52b7489029005::t_26f0a63e60d6d3 749-752,754
+scripts/codex-status-hook.py
+  s_d52b7489029005::t_8cc2679a336ef6 7-9,42-73,81-88
+  s_d52b7489029005::t_59ab6b0f8eb51b 1-6,10-41,74-80,89-94
+docs/codex-status.md
+  s_d52b7489029005::t_8cc2679a336ef6 51-54
+  s_d52b7489029005::t_59ab6b0f8eb51b 1-24,26-29,33,47-50,55-64
+  s_d52b7489029005::t_fe385daf65e93b 34-46
+  s_d52b7489029005::t_baceb96f05d368 25,30-32
+defaults/frame/settings/main.js
+  s_d52b7489029005::t_26f0a63e60d6d3 805-807,814
+crates/ghostty-sys/build.rs
+  s_d52b7489029005::t_ab5b60345be48c 39-40
+src/settings.rs
+  s_d52b7489029005::t_26f0a63e60d6d3 386,455,684
+scripts/test_codex_status_hook.py
+  s_d52b7489029005::t_59ab6b0f8eb51b 1-5,7-59,67-74,76-78,81-90
+  s_d52b7489029005::t_8cc2679a336ef6 6,60-66,75,79-80
+THIRD-PARTY-NOTICES
+  s_d52b7489029005::t_a7e7453ccf0e8b 13,2755,2961,12017-12022,12272-12273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "908bb877752b1a9999488a4768eaccfc0f30c3f6",
+  "prompts": {},
+  "sessions": {
+    "s_d52b7489029005": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ca73-0946-7591-830c-8c10feee21f6",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TCCALTINTOP <cevahir.altintop@turkcell.com.tr>"
+    }
+  }
+}
