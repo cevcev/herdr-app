@@ -1,0 +1,23 @@
+src/SKILL.md
+  s_8beacc2fe63fa3::t_6660f4ef465226 32-33
+defaults/mods/new-menu/main.js
+  s_8beacc2fe63fa3::t_6660f4ef465226 53,63
+defaults/AGENTS.md
+  s_8beacc2fe63fa3::t_6660f4ef465226 178-179,190-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e1ca73d8a695cd8cf42250453975ac0db12c5c75",
+  "prompts": {},
+  "sessions": {
+    "s_8beacc2fe63fa3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cca0-d175-70a3-9513-d3aed5065068",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TCCALTINTOP <cevahir.altintop@turkcell.com.tr>"
+    }
+  }
+}
