@@ -1,0 +1,30 @@
+defaults/mods/changes/main.js
+  s_948c45f63f120f::t_ed609f74a03bbf 3,6-7
+defaults/AGENTS.md
+  s_948c45f63f120f::t_ed609f74a03bbf 178,199-204
+defaults/mods/new-menu/main.js
+  s_948c45f63f120f::t_ed609f74a03bbf 49-54,61,68,79
+justfile
+  s_948c45f63f120f::t_ed609f74a03bbf 46
+src/SKILL.md
+  s_948c45f63f120f::t_ed609f74a03bbf 32,36-37
+scripts/changes.test.ts
+  s_948c45f63f120f::t_e651343d133cdc 5-6,10-56
+  s_948c45f63f120f::t_4e1a6edfa00ace 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "22d160f8db88decf932fab1fe13f66f2b96c55b3",
+  "prompts": {},
+  "sessions": {
+    "s_948c45f63f120f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cf29-52b1-7970-a698-d62e87e348f6",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TCCALTINTOP <cevahir.altintop@turkcell.com.tr>"
+    }
+  }
+}
