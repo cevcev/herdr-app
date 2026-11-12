@@ -1,0 +1,21 @@
+defaults/mods/files/main.js
+  s_8beacc2fe63fa3::t_98b263939acbd8 3,158,171-184,186,189-192
+defaults/AGENTS.md
+  s_8beacc2fe63fa3::t_98b263939acbd8 196-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b4652606840abe721a9ca3cb653abea128ef16ef",
+  "prompts": {},
+  "sessions": {
+    "s_8beacc2fe63fa3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cca0-d175-70a3-9513-d3aed5065068",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TCCALTINTOP <cevahir.altintop@turkcell.com.tr>"
+    }
+  }
+}
